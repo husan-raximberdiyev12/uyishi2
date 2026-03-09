@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.sct {
+  padding-top: 56px;
+}
+.big-box2 {
+  display: flex;
+  gap: 64px;
+}
+.big-box3 {
+  display: flex;
+  padding-top: 210px;
+}
+.big-box {
+  display: flex;
+  gap: 24px;
+}
+li {
+  list-style-type: none;
+}
+ul {
+  gap: 33px;
+}
+.btn {
+  padding-top: 12px;
+  padding-right: 36px;
+  padding-bottom: 12px;
+  padding-left: 36px;
+  color: black;
+  background-color: white;
+  border-radius: 100px;
+}
+.box2 {
+  width: 384px;
+  border: 1px solid #000000;
+  border-radius: 12px;
+  padding: 26px;
+}
+.box {
+  width: 655px;
+  padding-top: 250px;
+}
+.btn-2 {
+  color: pink;
+  padding-top: 10px;
+  padding-right: 24px;
+  padding-bottom: 10px;
+  padding-left: 14px;
+  border-radius: 100px;
+  margin-left: 200px;
+}
+.flesh {
+  padding-top: 20px;
+  margin-left: 650px;
+}
+.box3 {
+  color: white;
+  width: 480px;
+  padding-top: 102px;
+  padding-bottom: 102px;
+  padding-right: 169px;
+  padding-left: 170px;
+}
+.big-box4{
+    padding-top: 320px;
+    padding-bottom: 160px;
+}
+.soz{
+    padding-left: 500px;
+}
+.hrefs {
+  display: flex;
+  margin-left: 500px;
+  gap: 33px;
+  padding-bottom: 10px;
+}
+.nom {
+  color: black;
+}
+.nom:nth-child(2) {
+  color: pink;
+}
+.box3:nth-child(1) {
+  background-image: url("./Rectangle\ 4.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.box3:nth-child(2) {
+  background-image: url("./Rectangle\ 6.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.box3:nth-child(3) {
+  background-image: url("./Rectangle\ 5.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
