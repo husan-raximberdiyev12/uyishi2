@@ -19,6 +19,16 @@ body {
   display: flex;
   gap: 24px;
 }
+.big-box5 {
+  background-image: url("./pexels-godisable-jacob-226636-953266\ 1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 140px;
+  padding-bottom: 138px;
+  padding-right: 920px;
+  padding-left: 128px;
+}
 li {
   list-style-type: none;
 }
@@ -65,12 +75,20 @@ ul {
   padding-right: 169px;
   padding-left: 170px;
 }
-.big-box4{
-    padding-top: 320px;
-    padding-bottom: 160px;
+.big-box4 {
+  padding-top: 320px;
+  padding-bottom: 160px;
 }
-.soz{
-    padding-left: 500px;
+.soz {
+  padding-left: 500px;
+}
+.skidka1 {
+  margin: 0;
+  color: white;
+}
+.skidka2 {
+  margin: 0;
+  color: white;
 }
 .hrefs {
   display: flex;
